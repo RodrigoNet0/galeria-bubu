@@ -1,4 +1,6 @@
 ---
 👋oiii
 ---
-<hi guys>
+<script>
+  alert:("Hello");
+  </script>
